@@ -1,4 +1,4 @@
-# CSS #
+
 ## Indice ##
 
 [Tarea 1](#1-que-es-css)
