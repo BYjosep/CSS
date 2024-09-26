@@ -10,7 +10,7 @@
 >[Tarea 4](#4-crear-una-tarjeta-de-presentacion-con-css-básico)
 
 ### 1 Que es CSS ###
-[Que es CSS](/CSS/que_es_css)
+[Que es CSS](./que_es_css)
 
 >1. **¿Qué es CSS y para qué sirve?**  
 >   - Busca en Internet qué es CSS (Cascading Style Sheets) y cuál es su función en el > >    desarrollo de páginas web.  
@@ -34,6 +34,7 @@
 
 
 ## 2 Colores y fuentes ##
+[Colores y fuentes](./colores_y_fuentes.html)
 
 >1. Crea un archivo HTML con varios párrafos y títulos (h1, h2, h3).
 >
