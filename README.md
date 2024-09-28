@@ -58,26 +58,26 @@
 ><img src="./padding.png">
 
 ## 4 Crear una tarjeta de presentacion con CSS básico ##
-
+[Tarea 4](./tarjeta_de_presentacion.html)
 >Instrucciones:
-
-1.    Descripción del reto
-Vas a diseñar una tarjeta de presentación personal utilizando HTML y CSS. Tu objetivo es aprender a definir márgenes, relleno (padding), bordes y dimensiones, aplicando los estilos directamente en el archivo CSS.
-1.    Requisitos del diseño
->    -    Contenido de la tarjeta:
->La tarjeta debe contener los siguientes elementos:
->    -    Tu nombre completo.
->    -    Tu profesión o título.
->    -    Una breve descripción sobre ti (2-3 frases).
->    -    Estilos de la tarjeta (con CSS):
->Investiga cómo aplicar los siguientes estilos y aplícalos a tu tarjeta:
->    -    Define un margen exterior para separar la tarjeta de los bordes de la pantalla.
->    -    Aplica relleno (padding) dentro de la tarjeta para que el texto no toque los bordes internos.
->    -    Añade un borde alrededor de la tarjeta con un grosor y color que elijas.
->    -    Define el ancho y alto de la tarjeta para que tenga un tamaño bien proporcionado (por ejemplo, 300px de ancho y 200px de alto).
->    -    Cambia el color de fondo de la tarjeta para darle estilo.
 >
->1.    Estructura básica del HTML
+>1. Descripción del reto
+>Vas a diseñar una tarjeta de presentación personal utilizando HTML y CSS. Tu objetivo es aprender a definir márgenes, relleno (padding), bordes y dimensiones, aplicando los estilos directamente en el archivo CSS.
+>1. Requisitos del diseño
+> - Contenido de la tarjeta:
+>La tarjeta debe contener los siguientes elementos:
+> - Tu nombre completo.
+> - Tu profesión o título.
+> - Una breve descripción sobre ti (2-3 frases).
+> - Estilos de la tarjeta (con CSS):
+>Investiga cómo aplicar los siguientes estilos y aplícalos a tu tarjeta:
+> - Define un margen exterior para separar la tarjeta de los bordes de la pantalla.
+> - Aplica relleno (padding) dentro de la tarjeta para que el texto no toque los bordes internos.
+> - Añade un borde alrededor de la tarjeta con un grosor y color que elijas.
+> - Define el ancho y alto de la tarjeta para que tenga un tamaño bien proporcionado (por ejemplo, 300px de ancho y 200px de alto).
+> - Cambia el color de fondo de la tarjeta para darle estilo.
+>
+>1. Estructura básica del HTML
 >Debes utilizar una estructura básica en HTML. Aquí te dejo un ejemplo inicial que puedes modificar:
 >
 >\<div class="tarjeta">
@@ -89,11 +89,11 @@ Vas a diseñar una tarjeta de presentación personal utilizando HTML y CSS. Tu o
 >  \<p>Descripción breve sobre ti.\</p>
 >\</div>
 >
->1.    Vinculación con CSS
+>1. Vinculación con CSS
 >Crea un archivo CSS separado y enlázalo a tu HTML para aplicar los estilos que investigues.
->1.    Recursos
+>1. Recursos
 >Si no sabes por dónde empezar, busca en Internet términos como:
->    -    “CSS margin”
->    -    “CSS padding”
->    -    “CSS border”
->    -    “CSS width and height”
+> - “CSS margin”
+> - “CSS padding”
+> - “CSS border”
+> - “CSS width and height”
