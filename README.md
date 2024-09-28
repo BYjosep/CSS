@@ -43,6 +43,7 @@
 >3. Cambia la fuente y el tamaño de texto para cada tipo de título y párrafo.
 
 ## 3 Diseño avanzado ##
+[Tarea 3](./padding.html)
 
 >Explica para que sirven:
 >
