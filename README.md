@@ -123,7 +123,7 @@
 >  - Redacta una explicación breve (máximo 5 frases) donde describas las diferencias y proporciona un ejemplo de cuándo utilizarías cada uno en una página web.
 
 ## 6 Uso combinado de ID y Clases en CSS ##
-
+[Tarea 6](./uso_combinado.html)
 
 >1.    Estructura HTML:
 > - Crea una página HTML que contenga lo siguiente:
