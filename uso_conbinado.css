@@ -4,5 +4,13 @@
 }
 #destacado{
     background-color: blue;
-    color: green;
+    color: yellow;
+}
+.contenido{
+    color: darkmagenta;
+    margin: 10%;
+}
+#especial{
+  color: violet;
+  background-color: #721422;
 }
